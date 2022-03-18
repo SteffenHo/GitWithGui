@@ -1,5 +1,5 @@
 Hallo Team,
-Wir planen eine Schulung am 18.03.2022 
+Wir planen eine Schulung am
 Das Thema ist:
-Source Tree
+Git
 Tolles Tool
